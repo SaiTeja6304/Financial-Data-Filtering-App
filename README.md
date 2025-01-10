@@ -1,8 +1,9 @@
-# React + Vite
+# Financial Data Filtering App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React App was created for internship at ValueGlance  
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Instructions To Run
+1. Download the entire repository
+2. Run npm i in the folder to install all dependencies
+3. Create a .env file and paste your API key like VITE_API_URL = xxx
+4. Run npm run dev and open the link
